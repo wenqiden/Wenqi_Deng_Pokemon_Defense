@@ -1,9 +1,13 @@
 # Wenqi_Deng_Pokemon_Defense
 
+Citations:
+- Images: https://www.aigei.com/game2d/character/       (including characters, enemies, decorations, path, background)
+- Icons:  https://game-icons.net/       (including pause, play, settings)
+- getCell, getCellBound functions: https://www.cs.cmu.edu/~112/notes/notes-animations-part2.html
+
 Project Description:
 
 This project is a 2D tower defense game with characters in Pokemon. In a randomly generated 2D map, players need to defeat different types of enemies entering map before they reach the end of path. After defeating all waves of procedurally harder enemies, players win. If any enemies reach the end of path, players lose.
-
 
 How to run:
 
@@ -14,10 +18,10 @@ Players can pause or play the game after starting. Also, they can choose the spe
 After the game end, players can click restart to go back to the starting page.
 
 Files needed to run:
-main code: 112_TP3_Final.py
-graphics: cmu_112_graphics.py
-definitions of classes: class_definition.py
-image files:
+- main code: 112_TP3_Final.py
+- graphics: cmu_112_graphics.py
+- definitions of classes: class_definition.py
+- image files:
 decoration1.png, decoration2.png, decoration3.png, 
 background.png, path unit.png, pause.png, play.png, setting.png
 Bulbasaur1.png, Bulbasaur2.png, Bulbasaur3.png, Bulbasaur4.png, Bulbasaur.png
